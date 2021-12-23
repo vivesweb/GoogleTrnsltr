@@ -18,7 +18,7 @@ Source donated by https://bio-farma.es
     
     - Red Hat Enterprise Linux Server release 6.10 (Santiago) PHP Version 7.3.25 (Production Server) 512Mb Memory Limit
 
-    - Red Hat Enterprise Linux release 8.5 (Ootpa) PHP Version 8.0.14
+    - Red Hat Enterprise Linux release 8.5 (Ootpa) PHP Version 8.0.14 (Production Server)
 
  
  
